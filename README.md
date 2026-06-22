@@ -1,4 +1,4 @@
-# Hi, I'm Vishrutha 👋
+# Hi, I'm Vishrutha 
 
 ## Computer Science Graduate
 
@@ -10,15 +10,15 @@ My interests include software engineering, full-stack development, data analytic
 
 ## Currently
 
-🔭 Building projects in Software Engineering and Data Science
+ Building projects in Software Engineering and Data Science
 
-🌱 Learning:
+ Learning:
 - System Design
 - Cloud Architecture
 - MLOps
 - Distributed Systems
 
-🎯 Seeking Software Engineering and Data opportunities
+ Seeking Software Engineering and Data opportunities
 
 ---
 
@@ -49,22 +49,22 @@ Software Engineering • Full-Stack Development • Backend Engineering • Data
 
 ## Featured Projects
 
-### 🌐 Full Stack Application
+###  Full Stack Application
 Modern web application with frontend, backend APIs, authentication, and database integration.
 
-### ☁️ MLOps Pipeline
+###  MLOps Pipeline
 End-to-end machine learning workflow covering training, deployment, and monitoring.
 
-### 🧠 NLP Sentiment Analysis
+###  NLP Sentiment Analysis
 Natural language processing project for sentiment classification and text analytics.
 
-### 📊 Data Science EDA Project
+###  Data Science EDA Project
 Exploratory data analysis and visualization project.
 
-### ⚡ Salesforce Organization Project
+###  Salesforce Organization Project
 Salesforce customization and automation.
 
-### 🎨 Portfolio Website
+###  Portfolio Website
 Personal website showcasing projects, skills, and experience.
 
 ---
